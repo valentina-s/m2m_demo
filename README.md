@@ -20,8 +20,8 @@ Basic instructions for using the OOI M2M Web Services. See ipython notebook for 
 `http --auth API USERNAME:API TOKEN https://ooinet.oceanobservatories.org/api/m2m/...`
 
 ## Additional Resources
-* Data Team QC Database http://ooi.visualocean.net/instruments/view/RS03CCAL-MJ03F-05-BOTPTA301#streams  
-* Data Portal https://ooinet.oceanobservatories.org/data_access/?search=botpta301  
+* Data Team QC Database http://ooi.visualocean.net
+* Data Portal https://ooinet.oceanobservatories.org
 * Sampling Strategy http://oceanobservatories.org/observation-and-sampling-approach  
 * Data Product Specifications http://oceanobservatories.org/technical-data-package  
 * Data Product Algorithms https://github.com/ooici/ion-functions/tree/master/ion_functions/data  
