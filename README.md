@@ -1,4 +1,4 @@
-# OOI Machine to Machine (M2M) Basics
+# OOI Machine to Machine (M2M) Demo
 Basic instructions for using the OOI M2M Web Services. See ipython notebook for examples using python's requests module. 
 
 ## Getting Started
