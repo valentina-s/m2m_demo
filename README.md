@@ -1,5 +1,5 @@
 # OOI Machine to Machine (M2M) Demo
-Basic instructions for using the OOI M2M Web Services. See ipython notebook for examples using python's requests module. 
+Basic instructions for using the OOI M2M Web Services. See ipython notebooks for examples using python's requests module. 
 
 ## Getting Started
 * Create a user account on [ooinet.oceanobservatories.org](https://www.ooinet.oceanobservatories.org)
