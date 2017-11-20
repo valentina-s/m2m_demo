@@ -2,7 +2,7 @@
 Basic instructions for using the OOI M2M Web Services. See ipython notebooks for examples using python's requests module. 
 
 ## Getting Started
-* Create a user account on [ooinet.oceanobservatories.org](https://www.ooinet.oceanobservatories.org)
+* Create a user account on [ooinet.oceanobservatories.org](https://www.ooinet.oceanobservatories.org) or use the CILogon button with an academic or Google account.
 * Log in
 * Navigate to the drop down menu screen in the top-right corner menu
 * Click on the "User Profile" element of the drop down.
@@ -24,7 +24,7 @@ Basic instructions for using the OOI M2M Web Services. See ipython notebooks for
 * Data Portal https://ooinet.oceanobservatories.org
 * Sampling Strategy http://oceanobservatories.org/observation-and-sampling-approach  
 * Data Product Specifications http://oceanobservatories.org/technical-data-package  
-* Data Product Algorithms https://github.com/ooici/ion-functions/tree/master/ion_functions/data  
+* Data Product Algorithms https://github.com/oceanobservatories/ion-functions/tree/master/ion_functions/data  
 
 ## Example Applications Built on Top of M2M Web Services
 
