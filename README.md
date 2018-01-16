@@ -19,6 +19,26 @@ Basic instructions for using the OOI M2M Web Services. See ipython notebooks for
 ### httpie 
 `http --auth API USERNAME:API TOKEN https://ooinet.oceanobservatories.org/api/m2m/...`
 
+## Running the Notebooks
+* create a python virtual environment and start the notebook from inside
+```
+conda create -n m2m_demo python=2.7 anaconda
+
+source activate m2m_demo
+
+pip install xarray==0.9.0
+
+pip install netcdf-python
+
+pip install thredds-crawler
+
+jupyter notebook
+
+source deactivate
+```
+
+(The latest `xarray` gives an error, seems a known issue which was fixed in future versions, but for now downgrading to 0.9.0 https://github.com/pydata/xarray/issues/1775)
+
 ## Additional Resources
 * Data Team QC Database http://ooi.visualocean.net
 * Data Portal https://ooinet.oceanobservatories.org
